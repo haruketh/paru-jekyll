@@ -1,1 +1,6 @@
-# paru-jekyll
+# haruk.xyz
+
+あしあと
+- とりあえずHello World
+- 1アカウント、複数リポジトリでマルチサイト
+- 独自ドメイン
