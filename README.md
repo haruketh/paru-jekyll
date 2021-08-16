@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## 日記を書くよ
 
-You can use the [editor on GitHub](https://github.com/haruketh/paru-jekyll/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+### URL
+https://haruk.xyz で公開します。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Github Pages
+標準テーマは１ページャーでブログに向いてない。
 
-### Markdown
+### テーマ
+日記は文字ベタ打ちだから、(1)見出しの一覧性がほしい、(2)サムネ不要、(3)カテゴリ表示できる
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+旅行やグルメブログならカードやグリッドにいきたいけど、今回は不向き。
+http://jekyllthemes.org/themes/mediumish-jekyll-theme/
+http://jekyllthemes.org/themes/mundana-jekyll-theme/
 
-```markdown
-Syntax highlighted code block
+シンプルにテキストだけだとこういうのか。
+http://jekyllthemes.org/themes/flex/
+http://jekyllthemes.org/themes/lagom/
+http://jekyllthemes.org/themes/stack-problems/
+http://jekyllthemes.org/themes/hmfaysal-notepad-theme/
 
-# Header 1
-## Header 2
-### Header 3
+### レイアウトデザイン
 
-- Bulleted
-- List
+というかコンフィグ。タイトルとロゴくらいは追加する。
 
-1. Numbered
-2. List
+### 投稿
 
-**Bold** and _Italic_ and `Code` text
+MD書いてアップするだけ。
+自動化とか全然わからない。
+毎回 generate して deploy する。
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haruketh/paru-jekyll/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
