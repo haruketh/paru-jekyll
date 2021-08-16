@@ -10,14 +10,14 @@ https://haruk.xyz で公開します。
 日記は文字ベタ打ちだから、(1)見出しの一覧性がほしい、(2)サムネ不要、(3)カテゴリ表示できる
 
 旅行やグルメブログならカードやグリッドにいきたいけど、今回は不向き。
-http://jekyllthemes.org/themes/mediumish-jekyll-theme/
-http://jekyllthemes.org/themes/mundana-jekyll-theme/
+- http://jekyllthemes.org/themes/mediumish-jekyll-theme/
+- http://jekyllthemes.org/themes/mundana-jekyll-theme/
 
 シンプルにテキストだけだとこういうのか。
-http://jekyllthemes.org/themes/flex/
-http://jekyllthemes.org/themes/lagom/
-http://jekyllthemes.org/themes/stack-problems/
-http://jekyllthemes.org/themes/hmfaysal-notepad-theme/
+- http://jekyllthemes.org/themes/flex/
+- http://jekyllthemes.org/themes/lagom/
+- http://jekyllthemes.org/themes/stack-problems/
+- http://jekyllthemes.org/themes/hmfaysal-notepad-theme/
 
 ### レイアウトデザイン
 
