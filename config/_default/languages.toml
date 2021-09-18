@@ -1,0 +1,12 @@
+[languages]
+    [ja]
+    title = "あしあと"
+    weight = 1
+    LanguageName = "JA"
+    contentDir = "content/japanese"
+
+    [en]
+    title = "My footprint"
+    weight = 2
+    LanguageName = "EN"
+    contentDir = "content/english"
