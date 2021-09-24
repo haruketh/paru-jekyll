@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-  post:
+  "-content-japanese-post":
     title: japanese
     output: true
-    permalink: "/content/japanese/post"
+    permalink: "/post"
