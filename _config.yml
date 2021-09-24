@@ -5,6 +5,9 @@ collections:
   content-japanese-post:
     title: Posts
     output: true
+  post:
+    title: Posts
+    output: true
   posts:
     title: Posts
     output: true
