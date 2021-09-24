@@ -8,3 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
+  japanese:
+    title: japanese
+    output: true
