@@ -2,9 +2,6 @@
 title: Haruk.Xyz
 timezone: UTC
 collections:
-  content-japanese-post:
-    title: Posts
-    output: true
   post:
     title: Posts
     output: true
