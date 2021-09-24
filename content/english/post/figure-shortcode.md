@@ -1,6 +1,6 @@
 ---
-title: 'The Figure Shortcode'
-date: 2021-03-13T21:47:41+00:00
+title: The Figure Shortcode
+date: 2021-03-13 21:47:41 Z
 draft: false
 ---
 

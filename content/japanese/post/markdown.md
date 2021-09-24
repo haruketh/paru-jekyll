@@ -1,9 +1,10 @@
 ---
-title: "Markdownてなに？シンタックスてなに？？"
-date: 2021-08-18T20:19:04+09:00
-Description: ""
+title: Markdownてなに？シンタックスてなに？？
+date: 2021-08-18 11:19:04 Z
+Description: ''
 Tags: []
-Categories: [ "hugo" ]
+Categories:
+- hugo
 ---
 
 この記事では、Hugoコンテンツファイルで使用できる基本的なMarkdown構文のサンプルを提供し、Hugoテーマで基本的なHTML要素がCSSで装飾されているかどうかを示します。

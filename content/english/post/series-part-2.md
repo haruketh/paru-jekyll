@@ -1,10 +1,10 @@
 ---
-author: Hugo Authors
 title: Series Part 2
-date: 2021-08-15
+date: 2021-08-15 00:00:00 Z
+author: Hugo Authors
 description: A brief guide to how to setup series part 2
 series:
-  - series-setup
+- series-setup
 ---
 
 In this second part of the series we'll show you where to find the full series
