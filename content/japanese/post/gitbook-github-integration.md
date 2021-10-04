@@ -1,11 +1,12 @@
----
-title: GitbookをGithubに連携した
-date: 2021-08-19 11:22:44 Z
-Description: ''
-Tags: []
-Categories:
-- gitbook
----
++++
+author = "Paru"
+title = "GitbookをGithubに連携した"
+date = "2021-08-19"
+description = ""
+categories = [
+    "gitbook",
+]
++++
 
 GitbookからGithubにデータ連携したよという話。
 

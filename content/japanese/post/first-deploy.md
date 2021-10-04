@@ -1,12 +1,12 @@
----
-title: Hugoで初めてデプロイした
-date: 2021-08-19 03:52:04 Z
-Description: ''
-Tags: []
-Categories:
-- hugo
-- community
----
++++
+author = "Paru"
+title = "Hugoで初めてデプロイした"
+date = "2021-08-19"
+description = ""
+categories = [
+    "hugo", "community"
+]
++++
 
 とあるコミュニティでサイトジェネレータ Hugo の存在を知って、今日初めてデプロイした。次にやることは、、、
 
