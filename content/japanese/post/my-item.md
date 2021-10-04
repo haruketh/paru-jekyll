@@ -1,9 +1,10 @@
 ---
-title: "マイアイテム"
-date: 2021-08-18T19:52:04+09:00
-Description: "なな？はち？"
+title: マイアイテム
+date: 2021-08-18 10:52:04 Z
+Description: なな？はち？
 Tags: []
-Categories: [ "hugo" ]
+Categories:
+- hugo
 ---
 
 さーて

@@ -1,10 +1,10 @@
 ---
-author: Hugo Authors
 title: Series Part 1
-date: 2021-08-14
+date: 2021-08-14 00:00:00 Z
+author: Hugo Authors
 description: A brief guide to how to setup series part 1
 series:
-  - series-setup
+- series-setup
 ---
 
 In this first part of the series we'll show you how to create a series
