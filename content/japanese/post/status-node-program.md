@@ -3,7 +3,7 @@ author = "Paru"
 title = "Statusノードプログラムに参加するよ"
 date = 2021-08-21T17:06:44+09:00
 description = ""
-Categories = [ "status" ]
+Categories = [ "status", "crypto" ]
 +++
 
 Statusというイーサリアムのコミュニティがあって、そのノードを立てるプログラムに申し込んだよ。
