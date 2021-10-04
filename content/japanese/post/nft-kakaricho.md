@@ -1,9 +1,9 @@
 +++
 author = "Paru"
-title = "これからのNFTと係長"
+title = "NFTと係長"
 date = 2021-10-04T18:48:12+09:00
 description = ""
-Categories = [ "crypto"]
+Categories = [ "crypto" ]
 +++
 
 いまNFTが熱い！！みたいなの「ふーんん」と思ってたけど、これから灼熱がくるよパル的に！！！！
