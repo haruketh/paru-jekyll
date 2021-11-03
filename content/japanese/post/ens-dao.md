@@ -1,7 +1,7 @@
 +++
 author = "Paru"
 title = "ENSトークンローンチ"
-date = 2021-11-3T20:10:12+09:00
+date = 2021-11-03T20:10:12+09:00
 description = ""
 Categories = [ "crypto"]
 +++
