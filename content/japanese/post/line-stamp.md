@@ -9,7 +9,7 @@ LINEスタンプを作ったよ。プライベートで使ってるからみん�
 
 <!--more-->
 
-{{< figure src="/images/banner-white.png">}}
+{{< figure src="/images/banner-white.webp">}}
 
 LINEのクリエイターズマーケットに登録して、iPhoneの「スタンプMaker」でアップするだけ！
 
