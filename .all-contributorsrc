@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "haruketh",
+      "name": "Haruki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31604703?v=4",
+      "profile": "https://github.com/haruketh",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "haruk.xyz",
+  "projectOwner": "haruketh",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
