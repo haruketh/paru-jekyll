@@ -1,6 +1,6 @@
 ## 日記を書くよ
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ### URL
@@ -40,6 +40,7 @@ MD書いてアップするだけ。
 <table>
   <tr>
     <td align="center"><a href="https://github.com/haruketh"><img src="https://avatars.githubusercontent.com/u/31604703?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Haruki</b></sub></a><br /><a href="https://github.com/haruketh/haruk.xyz/commits?author=haruketh" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/yisizawa"><img src="https://avatars.githubusercontent.com/u/24412698?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yisizawa</b></sub></a><br /><a href="https://github.com/haruketh/haruk.xyz/commits?author=yisizawa" title="Code">💻</a></td>
   </tr>
 </table>
 
