@@ -3,7 +3,7 @@ author = "Paru"
 title = "メンバーシップとしてのNFT"
 date = 2021-12-29T14:48:12+09:00
 description = ""
-Categories = [ "crypto, community" ]
+Categories = [ "crypto", "community" ]
 draft = "false"
 +++
 
